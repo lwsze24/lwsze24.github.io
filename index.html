@@ -56,35 +56,7 @@
 <li> <h3> Sep. 2016－Aug. 2017 ： Student Senator of Hong Kong Baptist
                         University </h3> </li>
     
-    var term;
-var apr;
-var amt;
-var mPmt;
-
-
-window.onload = function()
-{
-  document.getElementById("apr").focus();
-  document.getElementById("sbt").onclick = getValues;
-};
-
-//use toFixed(2) to set the precision of the mPayment. Use it on an int.
-function getValues()
-{
-  term = document.getElementById("trm").value;
-  apr = document.getElementById("apr").value;
-  amt = document.getElementById("amt").value;
-  apr /= 1200;
-  term *= 12;
-  mPmt = calculatePayment();
-  document.getElementById("pmt").value = "$" + mPmt.toFixed(2);
-};
-
-function calculatePayment()
-{
-	var payment = amt*(apr * Math.pow((1 + apr), term))/(Math.pow((1 + apr), term) - 1);
-	return payment;
-}
+      A=P*((r*(Math.pow(1+r, n)))/(((Math.pow(1+r,n))))-1))
     
 </ul>
 
