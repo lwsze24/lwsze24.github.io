@@ -1,1 +1,43 @@
+<link rel="stylesheet" href="animate.css">
+<center><h1 class="animated infinite bounce"> Hong Kong property's price kept recording high </h1></center>
 
+<img class="animated flipInY"src="chart.png" alt="Chart" height"300"="" width="1200">
+
+<h2> The CCL of major estate in Hong Kong Island was 178.62 </h2>
+
+<ul>
+    <li>The CCL was 1.46 percent higher than that of last week while it was 1.21 percent higher than that of last month</li>
+   
+  </ul>
+
+<style>
+  h2{
+    Font-size:36px;
+    color:aqua;
+  }
+  h1{color:blue}
+  p{font-style:italic}
+  </style>
+
+
+
+<h2 style="font-size:36px"> The CCL of major estate in Kolwoon was 169.16 </h2>
+<ul>
+   
+
+ <li>  The CCL was 2.16 percent higher than that of last week while it was 3.33 percent higher than that of last month.</li>
+     </ul>
+
+<ul>
+    
+<h2>The CCL of major estate in New Territories(East) was 182.04</h2>
+
+ <li>  The CCL was 0.91 percent higher than that of last week while it was 2.54 percent higher than that of last month.</li>
+    
+    <h2>The CCL of major estate in New Territories(West) was 155.7</h2>
+
+<li> <h3> The CCL was 0.82 percent higher than that of last week while it was 1.43 percent higher than that of last month.  </h3> </li>
+     </ul>
+    
+    
+</ul>
